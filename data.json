@@ -5,7 +5,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kupalki--gryzuni/pesok-dlya-kupaniya-dlya-gryzunov-1-kg.html",
         "brand_name": "Little One",
         "town": "Moscow",
-        "price": 635
+        "price": 635,
+        "price_with_sale": 635
     },
     {
         "item_id": 34849,
@@ -13,7 +14,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Avtopoilka_dlya_gryzunov_FPI4662_Ferplast_Drinki_300_1002255.html",
         "brand_name": "Ferplast",
         "town": "Moscow",
-        "price": 555
+        "price": 555,
+        "price_with_sale": 555
     },
     {
         "item_id": 34827,
@@ -21,7 +23,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Poilka_dgryzunov_1007210.html",
         "brand_name": "Trixie",
         "town": "Moscow",
-        "price": 765
+        "price": 765,
+        "price_with_sale": 765
     },
     {
         "item_id": 146418,
@@ -29,7 +32,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-metallicheskaya-s-derzhatelem-0-15l.html",
         "brand_name": "Triol",
         "town": "Moscow",
-        "price": 199
+        "price": 199,
+        "price_with_sale": 199
     },
     {
         "item_id": 55457,
@@ -37,7 +41,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Avtopoilka_dlya_gryzunov_L182_Ferplast_Drinki_300_1002252.html",
         "brand_name": "Ferplast",
         "town": "Moscow",
-        "price": 365
+        "price": 365,
+        "price_with_sale": 365
     },
     {
         "item_id": 34847,
@@ -45,7 +50,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Avtopoilka_dlya_gryzunov_FPI150_Ferplast_Drinki_160_1002254.html",
         "brand_name": "Ferplast",
         "town": "Moscow",
-        "price": 455
+        "price": 455,
+        "price_with_sale": 455
     },
     {
         "item_id": 34829,
@@ -53,7 +59,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Poilka_dgryzunov_1007211.html",
         "brand_name": "Trixie",
         "town": "Moscow",
-        "price": 817
+        "price": 817,
+        "price_with_sale": 817
     },
     {
         "item_id": 41165,
@@ -61,23 +68,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Poilka_L186_DRINKY_150_ml_dlya_gryzunov__tsvetnaya_kollektsiya__1009289.html",
         "brand_name": "Ferplast",
         "town": "Moscow",
-        "price": 315
-    },
-    {
-        "item_id": 72339,
-        "title": "\u041a\u0443\u043f\u0430\u043b\u043a\u0430 \u0434\u043b\u044f \u0434\u0435\u0433\u0443 \u0438 \u0448\u0438\u043d\u0448\u0438\u043b\u043b, 27\u044518\u044516 \u0441\u043c",
-        "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kupalki--gryzuni/triksi-kupalka-dlya-degu-i-shinshill-27-18-16-sm.html",
-        "brand_name": "Trixie",
-        "town": "Moscow",
-        "price": 1467
-    },
-    {
-        "item_id": 34831,
-        "title": "\u041f\u043e\u0438\u043b\u043a\u0430 \u0434\u043b\u044f \u0433\u0440\u044b\u0437\u0443\u043d\u043e\u0432 Honey and Hopper, \u0441\u0442\u0435\u043a\u043b\u044f\u043d\u043d\u0430\u044f",
-        "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Poilka_dgryzunov_1007212.html",
-        "brand_name": "Trixie",
-        "town": "Moscow",
-        "price": 979
+        "price": 315,
+        "price_with_sale": 315
     },
     {
         "item_id": 146213,
@@ -85,7 +77,26 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/poilka-dlya-gryzunov-250ml.html",
         "brand_name": "MPets",
         "town": "Moscow",
-        "price": 259
+        "price": 259,
+        "price_with_sale": 259
+    },
+    {
+        "item_id": 34831,
+        "title": "\u041f\u043e\u0438\u043b\u043a\u0430 \u0434\u043b\u044f \u0433\u0440\u044b\u0437\u0443\u043d\u043e\u0432 Honey and Hopper, \u0441\u0442\u0435\u043a\u043b\u044f\u043d\u043d\u0430\u044f",
+        "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Poilka_dgryzunov_1007212.html",
+        "brand_name": "Trixie",
+        "town": "Moscow",
+        "price": 979,
+        "price_with_sale": 979
+    },
+    {
+        "item_id": 72339,
+        "title": "\u041a\u0443\u043f\u0430\u043b\u043a\u0430 \u0434\u043b\u044f \u0434\u0435\u0433\u0443 \u0438 \u0448\u0438\u043d\u0448\u0438\u043b\u043b, 27\u044518\u044516 \u0441\u043c",
+        "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kupalki--gryzuni/triksi-kupalka-dlya-degu-i-shinshill-27-18-16-sm.html",
+        "brand_name": "Trixie",
+        "town": "Moscow",
+        "price": 1467,
+        "price_with_sale": 1467
     },
     {
         "item_id": 149329,
@@ -93,7 +104,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/poilka-dlya-melkih-zhivotnyh-125ml.html",
         "brand_name": "Triol",
         "town": "Moscow",
-        "price": 257
+        "price": 257,
+        "price_with_sale": 257
     },
     {
         "item_id": 128267,
@@ -101,7 +113,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kormushki-dlya-sena-gryzuni/kormushka-s-senom-podvesnaya-dlya-gryzunov.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 539
+        "price": 539,
+        "price_with_sale": 539
     },
     {
         "item_id": 34857,
@@ -109,7 +122,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Poilka_L187_DRINKY_300_ml_dlya_gryzunov__tsvetnaya_kollektsiya__1009290.html",
         "brand_name": "Ferplast",
         "town": "Moscow",
-        "price": 375
+        "price": 375,
+        "price_with_sale": 375
     },
     {
         "item_id": 105245,
@@ -117,7 +131,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kormushki-dlya-sena-gryzuni/kormushka-dlya-gryzunov-shar-f-16-sm-metall.html",
         "brand_name": "Trixie",
         "town": "Moscow",
-        "price": 919
+        "price": 919,
+        "price_with_sale": 919
     },
     {
         "item_id": 125678,
@@ -125,7 +140,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/poilka-dlya-gryzunov-50ml.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 139
+        "price": 139,
+        "price_with_sale": 139
     },
     {
         "item_id": 138818,
@@ -133,7 +149,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kormushki-dlya-sena-gryzuni/kormushka-dlya-sena-podvesnaya-metall-20kh18kh12-sm.html",
         "brand_name": "Trixie",
         "town": "Moscow",
-        "price": 445
+        "price": 445,
+        "price_with_sale": 445
     },
     {
         "item_id": 149331,
@@ -141,7 +158,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/poilka-dlya-melkih-zhivotnyh-500ml.html",
         "brand_name": "Triol",
         "town": "Moscow",
-        "price": 453
+        "price": 453,
+        "price_with_sale": 453
     },
     {
         "item_id": 169797,
@@ -149,7 +167,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kupalki--gryzuni/kupalka-dlya-gryzunov-sand-bath-roof-xl-25h20x20sm.html",
         "brand_name": "PetStandArt",
         "town": "Moscow",
-        "price": 1135
+        "price": 1135,
+        "price_with_sale": 1135
     },
     {
         "item_id": 151745,
@@ -157,7 +176,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/podstavka-dlya-poilki-dlya-gryzunov-kaktus.html",
         "brand_name": "Rurri",
         "town": "Moscow",
-        "price": 459
+        "price": 459,
+        "price_with_sale": 459
     },
     {
         "item_id": 146546,
@@ -165,7 +185,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-keramicheskaya-dlya-melkikh-zhivotnykh-serdechko.html",
         "brand_name": "Triol",
         "town": "Moscow",
-        "price": 229
+        "price": 229,
+        "price_with_sale": 229
     },
     {
         "item_id": 34851,
@@ -173,7 +194,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Avtopoilka_dlya_gryzunov_FPI4660_Ferplast_Drinki_75_1002256.html",
         "brand_name": "Ferplast",
         "town": "Moscow",
-        "price": 419
+        "price": 419,
+        "price_with_sale": 419
     },
     {
         "item_id": 146211,
@@ -181,7 +203,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/poilka-dlya-gryzunov-100ml.html",
         "brand_name": "MPets",
         "town": "Moscow",
-        "price": 199
+        "price": 199,
+        "price_with_sale": 199
     },
     {
         "item_id": 164905,
@@ -189,7 +212,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-8-5-sm-tsvetnaya.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 259
+        "price": 259,
+        "price_with_sale": 259
     },
     {
         "item_id": 164903,
@@ -197,7 +221,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-krolik-8-5-sm-sinyaya.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 259
+        "price": 259,
+        "price_with_sale": 259
     },
     {
         "item_id": 146420,
@@ -205,7 +230,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-metallicheskaya-s-derzhatelem-0-15l1.html",
         "brand_name": "Triol",
         "town": "Moscow",
-        "price": 199
+        "price": 199,
+        "price_with_sale": 199
     },
     {
         "item_id": 164911,
@@ -213,7 +239,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-mandarin-9-5-sm-zelenaya.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 239
+        "price": 239,
+        "price_with_sale": 239
     },
     {
         "item_id": 59677,
@@ -221,7 +248,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kormushki-dlya-sena-gryzuni/Kormushka_dlya_gryzunov_Ferplast_Rodger_dlya_sena_1013828.html",
         "brand_name": "Ferplast",
         "town": "Moscow",
-        "price": 299
+        "price": 299,
+        "price_with_sale": 299
     },
     {
         "item_id": 72343,
@@ -229,7 +257,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/petmax-miska-dlya-gryzunov-9-sm-100-ml-belaya.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 209
+        "price": 209,
+        "price_with_sale": 209
     },
     {
         "item_id": 169795,
@@ -237,7 +266,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kormushki-dlya-sena-gryzuni/kormushka-dlya-myshey-wall-coconut-s-8h8h8.html",
         "brand_name": "PetStandArt",
         "town": "Moscow",
-        "price": 339
+        "price": 339,
+        "price_with_sale": 339
     },
     {
         "item_id": 34855,
@@ -245,15 +275,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Poilka_L185_DRINKY_75_ml_dlya_gryzunov__tsvetnaya_kollektsiya__1009288.html",
         "brand_name": "Ferplast",
         "town": "Moscow",
-        "price": 299
-    },
-    {
-        "item_id": 146544,
-        "title": "\u041c\u0438\u0441\u043a\u0430 \u043a\u0435\u0440\u0430\u043c\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0443\u0433\u043b\u043e\u0432\u0430\u044f \u0434\u043b\u044f \u043c\u0435\u043b\u043a\u0438\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u041f\u043e\u043b\u044f\u043d\u043a\u0430, 0,045 \u043b",
-        "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-keramicheskaya-uglovaya-dlya-melkikh-zhivotnykh-polyanka.html",
-        "brand_name": "Triol",
-        "town": "Moscow",
-        "price": 245
+        "price": 299,
+        "price_with_sale": 299
     },
     {
         "item_id": 88156,
@@ -261,7 +284,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kupalki--gryzuni/kupalka-dlya-homyakov-i-myshey-17h10h10-sm-temno-siniy-biryuzovyy.html",
         "brand_name": "Trixie",
         "town": "Moscow",
-        "price": 699
+        "price": 699,
+        "price_with_sale": 699
     },
     {
         "item_id": 44019,
@@ -269,7 +293,17 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/Petmax_Miska_dlya_gryzunov_s_risunkom_240ml_11sm_keramika_1016186.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 349
+        "price": 349,
+        "price_with_sale": 349
+    },
+    {
+        "item_id": 146544,
+        "title": "\u041c\u0438\u0441\u043a\u0430 \u043a\u0435\u0440\u0430\u043c\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0443\u0433\u043b\u043e\u0432\u0430\u044f \u0434\u043b\u044f \u043c\u0435\u043b\u043a\u0438\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u041f\u043e\u043b\u044f\u043d\u043a\u0430, 0,045 \u043b",
+        "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-keramicheskaya-uglovaya-dlya-melkikh-zhivotnykh-polyanka.html",
+        "brand_name": "Triol",
+        "town": "Moscow",
+        "price": 245,
+        "price_with_sale": 245
     },
     {
         "item_id": 34865,
@@ -277,7 +311,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/Petmax_Miska_dlya_homyakov_s_risunkom_100ml_85sm_keramika_1016187.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 249
+        "price": 249,
+        "price_with_sale": 249
     },
     {
         "item_id": 59661,
@@ -285,7 +320,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Avtopoilka_dlya_gryzunov_4674_Ferplast_Sippi_medium_1013810.html",
         "brand_name": "Ferplast",
         "town": "Moscow",
-        "price": 757
+        "price": 757,
+        "price_with_sale": 757
     },
     {
         "item_id": 164909,
@@ -293,7 +329,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-mandarin-9-5-sm-oranzhevaya.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 239
+        "price": 239,
+        "price_with_sale": 239
     },
     {
         "item_id": 34803,
@@ -301,7 +338,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/Miska_Gamma_dlya_gryzunov_50_ml_1008106.html",
         "brand_name": "\u0413\u0430\u043c\u043c\u0430",
         "town": "Moscow",
-        "price": 29
+        "price": 29,
+        "price_with_sale": 29
     },
     {
         "item_id": 87235,
@@ -309,7 +347,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-list-kapusty-12-sm.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 257
+        "price": 257,
+        "price_with_sale": 257
     },
     {
         "item_id": 125680,
@@ -317,7 +356,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kormushki-dlya-sena-gryzuni/kormushka-shar-metallicheskaya-12sm.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 309
+        "price": 309,
+        "price_with_sale": 309
     },
     {
         "item_id": 34801,
@@ -325,7 +365,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/Miska_Gamma_dlya_gryzunov_30_ml_1008105.html",
         "brand_name": "\u0413\u0430\u043c\u043c\u0430",
         "town": "Moscow",
-        "price": 23
+        "price": 23,
+        "price_with_sale": 23
     },
     {
         "item_id": 149333,
@@ -333,7 +374,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kormushki-dlya-sena-gryzuni/kormushka-little-town-dlya-melkih-zhivotnyh-200ml.html",
         "brand_name": "Triol",
         "town": "Moscow",
-        "price": 463
+        "price": 463,
+        "price_with_sale": 463
     },
     {
         "item_id": 165055,
@@ -341,7 +383,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kormushki-dlya-sena-gryzuni/kormushka-dlya-melkih-zhivotnyh-metallicheskaya-shar-s-d80mm.html",
         "brand_name": "Triol",
         "town": "Moscow",
-        "price": 349
+        "price": 349,
+        "price_with_sale": 349
     },
     {
         "item_id": 155000,
@@ -349,7 +392,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-serdechko-7-3-5sm.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 189
+        "price": 189,
+        "price_with_sale": 189
     },
     {
         "item_id": 72359,
@@ -357,7 +401,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/petmax-miska-dlya-gryzunov-10-sm-200-ml-oranzhevaya.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 229
+        "price": 229,
+        "price_with_sale": 229
     },
     {
         "item_id": 146542,
@@ -365,7 +410,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-keramicheskaya-dlya-melkikh-zhivotnykh-malyshka.html",
         "brand_name": "Triol",
         "town": "Moscow",
-        "price": 199
+        "price": 199,
+        "price_with_sale": 199
     },
     {
         "item_id": 164899,
@@ -373,7 +419,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-dvoynaya-12-5-sm-oranzhevaya-s-tsvetkom.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 359
+        "price": 359,
+        "price_with_sale": 359
     },
     {
         "item_id": 154998,
@@ -381,7 +428,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-6-5-4sm.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 189
+        "price": 189,
+        "price_with_sale": 189
     },
     {
         "item_id": 87243,
@@ -389,7 +437,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-9-5-sm-rozovaya.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 209
+        "price": 209,
+        "price_with_sale": 209
     },
     {
         "item_id": 151739,
@@ -397,7 +446,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kupalki--gryzuni/vannochka-dlya-gryzunov-18-5h10h12-5sm.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 599
+        "price": 599,
+        "price_with_sale": 599
     },
     {
         "item_id": 165057,
@@ -405,7 +455,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kormushki-dlya-sena-gryzuni/kormushka-dlya-melkih-zhivotnyh-metallicheskaya-shar-m-d120mm.html",
         "brand_name": "Triol",
         "town": "Moscow",
-        "price": 403
+        "price": 403,
+        "price_with_sale": 403
     },
     {
         "item_id": 164901,
@@ -413,7 +464,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-listochki-10-sm.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 359
+        "price": 359,
+        "price_with_sale": 359
     },
     {
         "item_id": 164897,
@@ -421,7 +473,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-s-pchelkoy-10-sm.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 339
+        "price": 339,
+        "price_with_sale": 339
     },
     {
         "item_id": 59615,
@@ -429,7 +482,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/Miska_dlya_gryzunov_Triksi_plastikovaya_malaya_60_ml_1013687.html",
         "brand_name": "Trixie",
         "town": "Moscow",
-        "price": 99
+        "price": 99,
+        "price_with_sale": 99
     },
     {
         "item_id": 151743,
@@ -437,7 +491,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-kaktus.html",
         "brand_name": "Rurri",
         "town": "Moscow",
-        "price": 279
+        "price": 279,
+        "price_with_sale": 279
     },
     {
         "item_id": 34794,
@@ -445,7 +500,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kupalki--gryzuni/Kupalka_dlya_shinshill_Savik_Velnes_Baf_plastik_1001663.html",
         "brand_name": "Savic",
         "town": "Moscow",
-        "price": 1139
+        "price": 1139,
+        "price_with_sale": 1139
     },
     {
         "item_id": 87213,
@@ -453,7 +509,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-dvoynaya-12-5-sm-oranzhevaya.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 327
+        "price": 327,
+        "price_with_sale": 327
     },
     {
         "item_id": 164895,
@@ -461,7 +518,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-s-oblakami-10-sm-sinyaya.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 299
+        "price": 299,
+        "price_with_sale": 299
     },
     {
         "item_id": 87245,
@@ -469,7 +527,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-9-5-sm-golubaya.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 209
+        "price": 209,
+        "price_with_sale": 209
     },
     {
         "item_id": 127889,
@@ -477,7 +536,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/igrushki-gryzuni/shary-i-kolesa-domiki/myach-dlya-lakomstv-dlya-gryzunov-f-7sm.html",
         "brand_name": "Trixie",
         "town": "Moscow",
-        "price": 399
+        "price": 399,
+        "price_with_sale": 399
     },
     {
         "item_id": 34859,
@@ -485,7 +545,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kormushki-dlya-sena-gryzuni/Ferplast_Dergatel_dlya_sena_2v1_dlya_melkih_gryzunov_PA_4720_1018135.html",
         "brand_name": "Ferplast",
         "town": "Moscow",
-        "price": 927
+        "price": 927,
+        "price_with_sale": 927
     },
     {
         "item_id": 155004,
@@ -493,7 +554,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-edinorog-10-3-5sm.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 229
+        "price": 229,
+        "price_with_sale": 229
     },
     {
         "item_id": 87227,
@@ -501,7 +563,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-8-5-sm-rozovaya.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 209
+        "price": 209,
+        "price_with_sale": 209
     },
     {
         "item_id": 170671,
@@ -509,7 +572,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-keramicheskaya-dlya-melkikh-zhivotnykh-yabloko-0-1l.html",
         "brand_name": "Triol",
         "town": "Moscow",
-        "price": 279
+        "price": 279,
+        "price_with_sale": 279
     },
     {
         "item_id": 170669,
@@ -517,7 +581,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-keramicheskaya-dlya-melkikh-zhivotnykh-limon-0-1l.html",
         "brand_name": "Triol",
         "town": "Moscow",
-        "price": 279
+        "price": 279,
+        "price_with_sale": 279
     },
     {
         "item_id": 55173,
@@ -525,7 +590,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Avtopoilka_dlya_gryzunov_L181_Ferplast_Drinki_150_1002251.html",
         "brand_name": "Ferplast",
         "town": "Moscow",
-        "price": 315
+        "price": 315,
+        "price_with_sale": 315
     },
     {
         "item_id": 87223,
@@ -533,7 +599,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-8-5-sm-oranzhevaya.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 209
+        "price": 209,
+        "price_with_sale": 209
     },
     {
         "item_id": 137655,
@@ -541,7 +608,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-200-ml-f-10-sm-plastikovaya-dlya-gryzunov.html",
         "brand_name": "Trixie",
         "town": "Moscow",
-        "price": 175
+        "price": 175,
+        "price_with_sale": 175
     },
     {
         "item_id": 34825,
@@ -549,7 +617,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/Miska_keramicheskaya_s_risunkom_1007209.html",
         "brand_name": "Trixie",
         "town": "Moscow",
-        "price": 515
+        "price": 515,
+        "price_with_sale": 515
     },
     {
         "item_id": 170665,
@@ -557,7 +626,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-keramicheskaya-dlya-melkikh-zhivotnykh-apelsin-0-1l.html",
         "brand_name": "Triol",
         "town": "Moscow",
-        "price": 209
+        "price": 209,
+        "price_with_sale": 209
     },
     {
         "item_id": 34841,
@@ -565,7 +635,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/Triksi_Miska_keramicheskaya_dlya_homyakov_i_myshey_100ml_diametr_9sm_1016884.html",
         "brand_name": "Trixie",
         "town": "Moscow",
-        "price": 287
+        "price": 287,
+        "price_with_sale": 287
     },
     {
         "item_id": 127891,
@@ -573,7 +644,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/derzhateli-dlya-lakomstv-gryzuni/myach-dlya-lakomstv-dlya-krolikov-f-6sm.html",
         "brand_name": "Trixie",
         "town": "Moscow",
-        "price": 449
+        "price": 449,
+        "price_with_sale": 449
     },
     {
         "item_id": 34883,
@@ -581,7 +653,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/Petmax_Miska_dlya_gryzunov_v_polosku_50ml_8sm_zelenaya_keramika_1016201.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 199
+        "price": 199,
+        "price_with_sale": 199
     },
     {
         "item_id": 87231,
@@ -589,7 +662,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-hungry-8-5-sm-seraya.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 209
+        "price": 209,
+        "price_with_sale": 209
     },
     {
         "item_id": 87239,
@@ -597,7 +671,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-13-sm-zelenaya.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 337
+        "price": 337,
+        "price_with_sale": 337
     },
     {
         "item_id": 159278,
@@ -605,7 +680,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-melkih-gryzunov-ovalnaya-40ml.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 49
+        "price": 49,
+        "price_with_sale": 49
     },
     {
         "item_id": 40801,
@@ -613,7 +689,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/Ferplast_Miska_DADA_MINI_dlya_melkih_givotnyh_1018137.html",
         "brand_name": "Ferplast",
         "town": "Moscow",
-        "price": 315
+        "price": 315,
+        "price_with_sale": 315
     },
     {
         "item_id": 155002,
@@ -621,7 +698,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-homyak-10-5-8-5-3-5sm.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 229
+        "price": 229,
+        "price_with_sale": 229
     },
     {
         "item_id": 76207,
@@ -629,7 +707,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/triol-miska-keramicheskaya-myshonok-0-1l.html",
         "brand_name": "Triol",
         "town": "Moscow",
-        "price": 229
+        "price": 229,
+        "price_with_sale": 229
     },
     {
         "item_id": 170667,
@@ -637,7 +716,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-keramicheskaya-dlya-melkikh-zhivotnykh-khomka-0-055l.html",
         "brand_name": "Triol",
         "town": "Moscow",
-        "price": 219
+        "price": 219,
+        "price_with_sale": 219
     },
     {
         "item_id": 87253,
@@ -645,7 +725,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-8-5-sm-belaya-oranzhevaya.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 199
+        "price": 199,
+        "price_with_sale": 199
     },
     {
         "item_id": 34798,
@@ -653,7 +734,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/Savik_Miska_dlya_gryzunov_RODY_BRUNCH_plastik_1019100.html",
         "brand_name": "Savic",
         "town": "Moscow",
-        "price": 183
+        "price": 183,
+        "price_with_sale": 183
     },
     {
         "item_id": 87229,
@@ -661,7 +743,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-lapki-8-5-sm.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 209
+        "price": 209,
+        "price_with_sale": 209
     },
     {
         "item_id": 164907,
@@ -669,7 +752,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-13-sm-zelenaya-s-zaychikom.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 399
+        "price": 399,
+        "price_with_sale": 399
     },
     {
         "item_id": 170663,
@@ -677,7 +761,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-keramicheskaya-dlya-melkikh-zhivotnykh-khomyachok-0-06l.html",
         "brand_name": "Triol",
         "town": "Moscow",
-        "price": 219
+        "price": 219,
+        "price_with_sale": 219
     },
     {
         "item_id": 107839,
@@ -685,7 +770,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-rakushka-dlya-gryzunov-sinyaya-12sm-keramika.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 377
+        "price": 377,
+        "price_with_sale": 377
     },
     {
         "item_id": 87255,
@@ -693,7 +779,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-10-sm-belaya-zelenaya.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 229
+        "price": 229,
+        "price_with_sale": 229
     },
     {
         "item_id": 87247,
@@ -701,7 +788,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-9-5-sm-zelenaya.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 209
+        "price": 209,
+        "price_with_sale": 209
     },
     {
         "item_id": 87233,
@@ -709,7 +797,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-hungry-8-5-sm-rozovaya.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 209
+        "price": 209,
+        "price_with_sale": 209
     },
     {
         "item_id": 87215,
@@ -717,7 +806,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-morkovki-10-sm.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 299
+        "price": 299,
+        "price_with_sale": 299
     },
     {
         "item_id": 87207,
@@ -725,7 +815,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-lapki-morkovki-10-sm.html",
         "brand_name": "Petmax",
         "town": "Moscow",
-        "price": 277
+        "price": 277,
+        "price_with_sale": 277
     },
     {
         "item_id": 162831,
@@ -733,7 +824,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/poilka-dlya-gryzunov-bibber-150ml-4h17-sm.html",
         "brand_name": "Imac",
         "town": "Moscow",
-        "price": 329
+        "price": 329,
+        "price_with_sale": 329
     },
     {
         "item_id": 162829,
@@ -741,7 +833,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/poilka-dlya-gryzunov-s-krepleniem-bibber-800-ml-12h6-5h19-sm.html",
         "brand_name": "Imac",
         "town": "Moscow",
-        "price": 999
+        "price": 999,
+        "price_with_sale": 999
     },
     {
         "item_id": 162825,
@@ -749,7 +842,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/poilka-d-gryzunov-bibber-100ml-s-krepl-k-kletke-f55h125sm.html",
         "brand_name": "Imac",
         "town": "Moscow",
-        "price": 409
+        "price": 409,
+        "price_with_sale": 409
     },
     {
         "item_id": 162823,
@@ -757,7 +851,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/poilka-d-gryzunov-bibber-200ml-s-krepl-k-kletke-f55h18sm.html",
         "brand_name": "Imac",
         "town": "Moscow",
-        "price": 499
+        "price": 499,
+        "price_with_sale": 499
     },
     {
         "item_id": 162821,
@@ -765,7 +860,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/poilka-dlya-gryzunov-bibber-330-ml-5-5h21-5-sm.html",
         "brand_name": "Imac",
         "town": "Moscow",
-        "price": 457
+        "price": 457,
+        "price_with_sale": 457
     },
     {
         "item_id": 162819,
@@ -773,7 +869,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/poilka-dlya-gryzunov-s-prisoskoy-bibber-70-ml-4h10-sm.html",
         "brand_name": "Imac",
         "town": "Moscow",
-        "price": 839
+        "price": 839,
+        "price_with_sale": 839
     },
     {
         "item_id": 162817,
@@ -781,7 +878,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-mini-bowl-cveta-v-assortimente-9h9h3-sm.html",
         "brand_name": "Imac",
         "town": "Moscow",
-        "price": 179
+        "price": 179,
+        "price_with_sale": 179
     },
     {
         "item_id": 162815,
@@ -789,7 +887,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kormushki-dlya-sena-gryzuni/kormushka-dlya-gryzunov-mangiatoia-criceti-8h5h3-sm.html",
         "brand_name": "Imac",
         "town": "Moscow",
-        "price": 63
+        "price": 63,
+        "price_with_sale": 63
     },
     {
         "item_id": 96604,
@@ -797,7 +896,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kupalki--gryzuni/pesok-dlya-kupaniya-dlya-gryzunov-1-kg.html",
         "brand_name": "Little One",
         "town": "Saint Petersburg",
-        "price": 635
+        "price": 635,
+        "price_with_sale": 635
     },
     {
         "item_id": 34849,
@@ -805,7 +905,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Avtopoilka_dlya_gryzunov_FPI4662_Ferplast_Drinki_300_1002255.html",
         "brand_name": "Ferplast",
         "town": "Saint Petersburg",
-        "price": 555
+        "price": 555,
+        "price_with_sale": 555
     },
     {
         "item_id": 34827,
@@ -813,7 +914,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Poilka_dgryzunov_1007210.html",
         "brand_name": "Trixie",
         "town": "Saint Petersburg",
-        "price": 765
+        "price": 765,
+        "price_with_sale": 765
     },
     {
         "item_id": 146418,
@@ -821,7 +923,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-metallicheskaya-s-derzhatelem-0-15l.html",
         "brand_name": "Triol",
         "town": "Saint Petersburg",
-        "price": 199
+        "price": 199,
+        "price_with_sale": 199
     },
     {
         "item_id": 55457,
@@ -829,7 +932,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Avtopoilka_dlya_gryzunov_L182_Ferplast_Drinki_300_1002252.html",
         "brand_name": "Ferplast",
         "town": "Saint Petersburg",
-        "price": 365
+        "price": 365,
+        "price_with_sale": 365
     },
     {
         "item_id": 34847,
@@ -837,7 +941,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Avtopoilka_dlya_gryzunov_FPI150_Ferplast_Drinki_160_1002254.html",
         "brand_name": "Ferplast",
         "town": "Saint Petersburg",
-        "price": 455
+        "price": 455,
+        "price_with_sale": 455
     },
     {
         "item_id": 34829,
@@ -845,7 +950,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Poilka_dgryzunov_1007211.html",
         "brand_name": "Trixie",
         "town": "Saint Petersburg",
-        "price": 817
+        "price": 817,
+        "price_with_sale": 817
     },
     {
         "item_id": 41165,
@@ -853,23 +959,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Poilka_L186_DRINKY_150_ml_dlya_gryzunov__tsvetnaya_kollektsiya__1009289.html",
         "brand_name": "Ferplast",
         "town": "Saint Petersburg",
-        "price": 315
-    },
-    {
-        "item_id": 72339,
-        "title": "\u041a\u0443\u043f\u0430\u043b\u043a\u0430 \u0434\u043b\u044f \u0434\u0435\u0433\u0443 \u0438 \u0448\u0438\u043d\u0448\u0438\u043b\u043b, 27\u044518\u044516 \u0441\u043c",
-        "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kupalki--gryzuni/triksi-kupalka-dlya-degu-i-shinshill-27-18-16-sm.html",
-        "brand_name": "Trixie",
-        "town": "Saint Petersburg",
-        "price": 1467
-    },
-    {
-        "item_id": 34831,
-        "title": "\u041f\u043e\u0438\u043b\u043a\u0430 \u0434\u043b\u044f \u0433\u0440\u044b\u0437\u0443\u043d\u043e\u0432 Honey and Hopper, \u0441\u0442\u0435\u043a\u043b\u044f\u043d\u043d\u0430\u044f",
-        "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Poilka_dgryzunov_1007212.html",
-        "brand_name": "Trixie",
-        "town": "Saint Petersburg",
-        "price": 979
+        "price": 315,
+        "price_with_sale": 315
     },
     {
         "item_id": 146213,
@@ -877,7 +968,26 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/poilka-dlya-gryzunov-250ml.html",
         "brand_name": "MPets",
         "town": "Saint Petersburg",
-        "price": 259
+        "price": 259,
+        "price_with_sale": 259
+    },
+    {
+        "item_id": 34831,
+        "title": "\u041f\u043e\u0438\u043b\u043a\u0430 \u0434\u043b\u044f \u0433\u0440\u044b\u0437\u0443\u043d\u043e\u0432 Honey and Hopper, \u0441\u0442\u0435\u043a\u043b\u044f\u043d\u043d\u0430\u044f",
+        "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Poilka_dgryzunov_1007212.html",
+        "brand_name": "Trixie",
+        "town": "Saint Petersburg",
+        "price": 979,
+        "price_with_sale": 979
+    },
+    {
+        "item_id": 72339,
+        "title": "\u041a\u0443\u043f\u0430\u043b\u043a\u0430 \u0434\u043b\u044f \u0434\u0435\u0433\u0443 \u0438 \u0448\u0438\u043d\u0448\u0438\u043b\u043b, 27\u044518\u044516 \u0441\u043c",
+        "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kupalki--gryzuni/triksi-kupalka-dlya-degu-i-shinshill-27-18-16-sm.html",
+        "brand_name": "Trixie",
+        "town": "Saint Petersburg",
+        "price": 1467,
+        "price_with_sale": 1467
     },
     {
         "item_id": 149329,
@@ -885,7 +995,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/poilka-dlya-melkih-zhivotnyh-125ml.html",
         "brand_name": "Triol",
         "town": "Saint Petersburg",
-        "price": 257
+        "price": 257,
+        "price_with_sale": 257
     },
     {
         "item_id": 128267,
@@ -893,7 +1004,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kormushki-dlya-sena-gryzuni/kormushka-s-senom-podvesnaya-dlya-gryzunov.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 539
+        "price": 539,
+        "price_with_sale": 539
     },
     {
         "item_id": 34857,
@@ -901,7 +1013,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Poilka_L187_DRINKY_300_ml_dlya_gryzunov__tsvetnaya_kollektsiya__1009290.html",
         "brand_name": "Ferplast",
         "town": "Saint Petersburg",
-        "price": 375
+        "price": 375,
+        "price_with_sale": 375
     },
     {
         "item_id": 105245,
@@ -909,7 +1022,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kormushki-dlya-sena-gryzuni/kormushka-dlya-gryzunov-shar-f-16-sm-metall.html",
         "brand_name": "Trixie",
         "town": "Saint Petersburg",
-        "price": 919
+        "price": 919,
+        "price_with_sale": 919
     },
     {
         "item_id": 125678,
@@ -917,7 +1031,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/poilka-dlya-gryzunov-50ml.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 139
+        "price": 139,
+        "price_with_sale": 139
     },
     {
         "item_id": 138818,
@@ -925,7 +1040,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kormushki-dlya-sena-gryzuni/kormushka-dlya-sena-podvesnaya-metall-20kh18kh12-sm.html",
         "brand_name": "Trixie",
         "town": "Saint Petersburg",
-        "price": 445
+        "price": 445,
+        "price_with_sale": 445
     },
     {
         "item_id": 149331,
@@ -933,7 +1049,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/poilka-dlya-melkih-zhivotnyh-500ml.html",
         "brand_name": "Triol",
         "town": "Saint Petersburg",
-        "price": 453
+        "price": 453,
+        "price_with_sale": 453
     },
     {
         "item_id": 169797,
@@ -941,7 +1058,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kupalki--gryzuni/kupalka-dlya-gryzunov-sand-bath-roof-xl-25h20x20sm.html",
         "brand_name": "PetStandArt",
         "town": "Saint Petersburg",
-        "price": 1135
+        "price": 1135,
+        "price_with_sale": 1135
     },
     {
         "item_id": 151745,
@@ -949,7 +1067,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/podstavka-dlya-poilki-dlya-gryzunov-kaktus.html",
         "brand_name": "Rurri",
         "town": "Saint Petersburg",
-        "price": 459
+        "price": 459,
+        "price_with_sale": 459
     },
     {
         "item_id": 146546,
@@ -957,7 +1076,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-keramicheskaya-dlya-melkikh-zhivotnykh-serdechko.html",
         "brand_name": "Triol",
         "town": "Saint Petersburg",
-        "price": 229
+        "price": 229,
+        "price_with_sale": 229
     },
     {
         "item_id": 34851,
@@ -965,7 +1085,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Avtopoilka_dlya_gryzunov_FPI4660_Ferplast_Drinki_75_1002256.html",
         "brand_name": "Ferplast",
         "town": "Saint Petersburg",
-        "price": 419
+        "price": 419,
+        "price_with_sale": 419
     },
     {
         "item_id": 146211,
@@ -973,7 +1094,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/poilka-dlya-gryzunov-100ml.html",
         "brand_name": "MPets",
         "town": "Saint Petersburg",
-        "price": 199
+        "price": 199,
+        "price_with_sale": 199
     },
     {
         "item_id": 164905,
@@ -981,7 +1103,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-8-5-sm-tsvetnaya.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 259
+        "price": 259,
+        "price_with_sale": 259
     },
     {
         "item_id": 164903,
@@ -989,7 +1112,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-krolik-8-5-sm-sinyaya.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 259
+        "price": 259,
+        "price_with_sale": 259
     },
     {
         "item_id": 146420,
@@ -997,7 +1121,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-metallicheskaya-s-derzhatelem-0-15l1.html",
         "brand_name": "Triol",
         "town": "Saint Petersburg",
-        "price": 199
+        "price": 199,
+        "price_with_sale": 199
     },
     {
         "item_id": 164911,
@@ -1005,7 +1130,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-mandarin-9-5-sm-zelenaya.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 239
+        "price": 239,
+        "price_with_sale": 239
     },
     {
         "item_id": 59677,
@@ -1013,7 +1139,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kormushki-dlya-sena-gryzuni/Kormushka_dlya_gryzunov_Ferplast_Rodger_dlya_sena_1013828.html",
         "brand_name": "Ferplast",
         "town": "Saint Petersburg",
-        "price": 299
+        "price": 299,
+        "price_with_sale": 299
     },
     {
         "item_id": 72343,
@@ -1021,7 +1148,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/petmax-miska-dlya-gryzunov-9-sm-100-ml-belaya.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 209
+        "price": 209,
+        "price_with_sale": 209
     },
     {
         "item_id": 169795,
@@ -1029,7 +1157,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kormushki-dlya-sena-gryzuni/kormushka-dlya-myshey-wall-coconut-s-8h8h8.html",
         "brand_name": "PetStandArt",
         "town": "Saint Petersburg",
-        "price": 339
+        "price": 339,
+        "price_with_sale": 339
     },
     {
         "item_id": 34855,
@@ -1037,15 +1166,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Poilka_L185_DRINKY_75_ml_dlya_gryzunov__tsvetnaya_kollektsiya__1009288.html",
         "brand_name": "Ferplast",
         "town": "Saint Petersburg",
-        "price": 299
-    },
-    {
-        "item_id": 146544,
-        "title": "\u041c\u0438\u0441\u043a\u0430 \u043a\u0435\u0440\u0430\u043c\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0443\u0433\u043b\u043e\u0432\u0430\u044f \u0434\u043b\u044f \u043c\u0435\u043b\u043a\u0438\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u041f\u043e\u043b\u044f\u043d\u043a\u0430, 0,045 \u043b",
-        "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-keramicheskaya-uglovaya-dlya-melkikh-zhivotnykh-polyanka.html",
-        "brand_name": "Triol",
-        "town": "Saint Petersburg",
-        "price": 245
+        "price": 299,
+        "price_with_sale": 299
     },
     {
         "item_id": 88156,
@@ -1053,7 +1175,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kupalki--gryzuni/kupalka-dlya-homyakov-i-myshey-17h10h10-sm-temno-siniy-biryuzovyy.html",
         "brand_name": "Trixie",
         "town": "Saint Petersburg",
-        "price": 699
+        "price": 699,
+        "price_with_sale": 699
     },
     {
         "item_id": 44019,
@@ -1061,7 +1184,17 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/Petmax_Miska_dlya_gryzunov_s_risunkom_240ml_11sm_keramika_1016186.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 349
+        "price": 349,
+        "price_with_sale": 349
+    },
+    {
+        "item_id": 146544,
+        "title": "\u041c\u0438\u0441\u043a\u0430 \u043a\u0435\u0440\u0430\u043c\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0443\u0433\u043b\u043e\u0432\u0430\u044f \u0434\u043b\u044f \u043c\u0435\u043b\u043a\u0438\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u041f\u043e\u043b\u044f\u043d\u043a\u0430, 0,045 \u043b",
+        "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-keramicheskaya-uglovaya-dlya-melkikh-zhivotnykh-polyanka.html",
+        "brand_name": "Triol",
+        "town": "Saint Petersburg",
+        "price": 245,
+        "price_with_sale": 245
     },
     {
         "item_id": 34865,
@@ -1069,7 +1202,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/Petmax_Miska_dlya_homyakov_s_risunkom_100ml_85sm_keramika_1016187.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 249
+        "price": 249,
+        "price_with_sale": 249
     },
     {
         "item_id": 59661,
@@ -1077,7 +1211,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Avtopoilka_dlya_gryzunov_4674_Ferplast_Sippi_medium_1013810.html",
         "brand_name": "Ferplast",
         "town": "Saint Petersburg",
-        "price": 757
+        "price": 757,
+        "price_with_sale": 757
     },
     {
         "item_id": 164909,
@@ -1085,7 +1220,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-mandarin-9-5-sm-oranzhevaya.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 239
+        "price": 239,
+        "price_with_sale": 239
     },
     {
         "item_id": 34803,
@@ -1093,7 +1229,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/Miska_Gamma_dlya_gryzunov_50_ml_1008106.html",
         "brand_name": "\u0413\u0430\u043c\u043c\u0430",
         "town": "Saint Petersburg",
-        "price": 29
+        "price": 29,
+        "price_with_sale": 29
     },
     {
         "item_id": 87235,
@@ -1101,7 +1238,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-list-kapusty-12-sm.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 257
+        "price": 257,
+        "price_with_sale": 257
     },
     {
         "item_id": 34801,
@@ -1109,7 +1247,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/Miska_Gamma_dlya_gryzunov_30_ml_1008105.html",
         "brand_name": "\u0413\u0430\u043c\u043c\u0430",
         "town": "Saint Petersburg",
-        "price": 23
+        "price": 23,
+        "price_with_sale": 23
     },
     {
         "item_id": 149333,
@@ -1117,7 +1256,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kormushki-dlya-sena-gryzuni/kormushka-little-town-dlya-melkih-zhivotnyh-200ml.html",
         "brand_name": "Triol",
         "town": "Saint Petersburg",
-        "price": 463
+        "price": 463,
+        "price_with_sale": 463
     },
     {
         "item_id": 165055,
@@ -1125,7 +1265,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kormushki-dlya-sena-gryzuni/kormushka-dlya-melkih-zhivotnyh-metallicheskaya-shar-s-d80mm.html",
         "brand_name": "Triol",
         "town": "Saint Petersburg",
-        "price": 349
+        "price": 349,
+        "price_with_sale": 349
     },
     {
         "item_id": 155000,
@@ -1133,7 +1274,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-serdechko-7-3-5sm.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 189
+        "price": 189,
+        "price_with_sale": 189
     },
     {
         "item_id": 72359,
@@ -1141,7 +1283,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/petmax-miska-dlya-gryzunov-10-sm-200-ml-oranzhevaya.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 229
+        "price": 229,
+        "price_with_sale": 229
     },
     {
         "item_id": 146542,
@@ -1149,7 +1292,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-keramicheskaya-dlya-melkikh-zhivotnykh-malyshka.html",
         "brand_name": "Triol",
         "town": "Saint Petersburg",
-        "price": 199
+        "price": 199,
+        "price_with_sale": 199
     },
     {
         "item_id": 164899,
@@ -1157,7 +1301,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-dvoynaya-12-5-sm-oranzhevaya-s-tsvetkom.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 359
+        "price": 359,
+        "price_with_sale": 359
     },
     {
         "item_id": 154998,
@@ -1165,7 +1310,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-6-5-4sm.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 189
+        "price": 189,
+        "price_with_sale": 189
     },
     {
         "item_id": 87243,
@@ -1173,7 +1319,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-9-5-sm-rozovaya.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 209
+        "price": 209,
+        "price_with_sale": 209
     },
     {
         "item_id": 151739,
@@ -1181,7 +1328,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kupalki--gryzuni/vannochka-dlya-gryzunov-18-5h10h12-5sm.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 599
+        "price": 599,
+        "price_with_sale": 599
     },
     {
         "item_id": 165057,
@@ -1189,7 +1337,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kormushki-dlya-sena-gryzuni/kormushka-dlya-melkih-zhivotnyh-metallicheskaya-shar-m-d120mm.html",
         "brand_name": "Triol",
         "town": "Saint Petersburg",
-        "price": 403
+        "price": 403,
+        "price_with_sale": 403
     },
     {
         "item_id": 164901,
@@ -1197,7 +1346,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-listochki-10-sm.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 359
+        "price": 359,
+        "price_with_sale": 359
     },
     {
         "item_id": 164897,
@@ -1205,7 +1355,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-s-pchelkoy-10-sm.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 339
+        "price": 339,
+        "price_with_sale": 339
     },
     {
         "item_id": 59615,
@@ -1213,7 +1364,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/Miska_dlya_gryzunov_Triksi_plastikovaya_malaya_60_ml_1013687.html",
         "brand_name": "Trixie",
         "town": "Saint Petersburg",
-        "price": 99
+        "price": 99,
+        "price_with_sale": 99
     },
     {
         "item_id": 34794,
@@ -1221,7 +1373,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kupalki--gryzuni/Kupalka_dlya_shinshill_Savik_Velnes_Baf_plastik_1001663.html",
         "brand_name": "Savic",
         "town": "Saint Petersburg",
-        "price": 1139
+        "price": 1139,
+        "price_with_sale": 1139
     },
     {
         "item_id": 87213,
@@ -1229,7 +1382,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-dvoynaya-12-5-sm-oranzhevaya.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 327
+        "price": 327,
+        "price_with_sale": 327
     },
     {
         "item_id": 164895,
@@ -1237,7 +1391,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-s-oblakami-10-sm-sinyaya.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 299
+        "price": 299,
+        "price_with_sale": 299
     },
     {
         "item_id": 87245,
@@ -1245,7 +1400,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-9-5-sm-golubaya.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 209
+        "price": 209,
+        "price_with_sale": 209
     },
     {
         "item_id": 127889,
@@ -1253,7 +1409,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/igrushki-gryzuni/shary-i-kolesa-domiki/myach-dlya-lakomstv-dlya-gryzunov-f-7sm.html",
         "brand_name": "Trixie",
         "town": "Saint Petersburg",
-        "price": 399
+        "price": 399,
+        "price_with_sale": 399
     },
     {
         "item_id": 34859,
@@ -1261,7 +1418,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kormushki-dlya-sena-gryzuni/Ferplast_Dergatel_dlya_sena_2v1_dlya_melkih_gryzunov_PA_4720_1018135.html",
         "brand_name": "Ferplast",
         "town": "Saint Petersburg",
-        "price": 927
+        "price": 927,
+        "price_with_sale": 927
     },
     {
         "item_id": 155004,
@@ -1269,7 +1427,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-edinorog-10-3-5sm.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 229
+        "price": 229,
+        "price_with_sale": 229
     },
     {
         "item_id": 87227,
@@ -1277,7 +1436,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-8-5-sm-rozovaya.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 209
+        "price": 209,
+        "price_with_sale": 209
     },
     {
         "item_id": 170671,
@@ -1285,7 +1445,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-keramicheskaya-dlya-melkikh-zhivotnykh-yabloko-0-1l.html",
         "brand_name": "Triol",
         "town": "Saint Petersburg",
-        "price": 279
+        "price": 279,
+        "price_with_sale": 279
     },
     {
         "item_id": 170669,
@@ -1293,7 +1454,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-keramicheskaya-dlya-melkikh-zhivotnykh-limon-0-1l.html",
         "brand_name": "Triol",
         "town": "Saint Petersburg",
-        "price": 279
+        "price": 279,
+        "price_with_sale": 279
     },
     {
         "item_id": 55173,
@@ -1301,7 +1463,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/Avtopoilka_dlya_gryzunov_L181_Ferplast_Drinki_150_1002251.html",
         "brand_name": "Ferplast",
         "town": "Saint Petersburg",
-        "price": 315
+        "price": 315,
+        "price_with_sale": 315
     },
     {
         "item_id": 137655,
@@ -1309,7 +1472,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-200-ml-f-10-sm-plastikovaya-dlya-gryzunov.html",
         "brand_name": "Trixie",
         "town": "Saint Petersburg",
-        "price": 175
+        "price": 175,
+        "price_with_sale": 175
     },
     {
         "item_id": 34825,
@@ -1317,7 +1481,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/Miska_keramicheskaya_s_risunkom_1007209.html",
         "brand_name": "Trixie",
         "town": "Saint Petersburg",
-        "price": 515
+        "price": 515,
+        "price_with_sale": 515
     },
     {
         "item_id": 170665,
@@ -1325,7 +1490,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-keramicheskaya-dlya-melkikh-zhivotnykh-apelsin-0-1l.html",
         "brand_name": "Triol",
         "town": "Saint Petersburg",
-        "price": 209
+        "price": 209,
+        "price_with_sale": 209
     },
     {
         "item_id": 34841,
@@ -1333,7 +1499,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/Triksi_Miska_keramicheskaya_dlya_homyakov_i_myshey_100ml_diametr_9sm_1016884.html",
         "brand_name": "Trixie",
         "town": "Saint Petersburg",
-        "price": 287
+        "price": 287,
+        "price_with_sale": 287
     },
     {
         "item_id": 127891,
@@ -1341,7 +1508,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/derzhateli-dlya-lakomstv-gryzuni/myach-dlya-lakomstv-dlya-krolikov-f-6sm.html",
         "brand_name": "Trixie",
         "town": "Saint Petersburg",
-        "price": 449
+        "price": 449,
+        "price_with_sale": 449
     },
     {
         "item_id": 87239,
@@ -1349,7 +1517,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-13-sm-zelenaya.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 337
+        "price": 337,
+        "price_with_sale": 337
     },
     {
         "item_id": 159278,
@@ -1357,7 +1526,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-melkih-gryzunov-ovalnaya-40ml.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 49
+        "price": 49,
+        "price_with_sale": 49
     },
     {
         "item_id": 40801,
@@ -1365,7 +1535,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/Ferplast_Miska_DADA_MINI_dlya_melkih_givotnyh_1018137.html",
         "brand_name": "Ferplast",
         "town": "Saint Petersburg",
-        "price": 315
+        "price": 315,
+        "price_with_sale": 315
     },
     {
         "item_id": 155002,
@@ -1373,7 +1544,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-homyak-10-5-8-5-3-5sm.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 229
+        "price": 229,
+        "price_with_sale": 229
     },
     {
         "item_id": 76207,
@@ -1381,7 +1553,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/triol-miska-keramicheskaya-myshonok-0-1l.html",
         "brand_name": "Triol",
         "town": "Saint Petersburg",
-        "price": 229
+        "price": 229,
+        "price_with_sale": 229
     },
     {
         "item_id": 170667,
@@ -1389,7 +1562,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-keramicheskaya-dlya-melkikh-zhivotnykh-khomka-0-055l.html",
         "brand_name": "Triol",
         "town": "Saint Petersburg",
-        "price": 219
+        "price": 219,
+        "price_with_sale": 219
     },
     {
         "item_id": 87229,
@@ -1397,7 +1571,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-lapki-8-5-sm.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 209
+        "price": 209,
+        "price_with_sale": 209
     },
     {
         "item_id": 164907,
@@ -1405,7 +1580,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-13-sm-zelenaya-s-zaychikom.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 399
+        "price": 399,
+        "price_with_sale": 399
     },
     {
         "item_id": 170663,
@@ -1413,7 +1589,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-keramicheskaya-dlya-melkikh-zhivotnykh-khomyachok-0-06l.html",
         "brand_name": "Triol",
         "town": "Saint Petersburg",
-        "price": 219
+        "price": 219,
+        "price_with_sale": 219
     },
     {
         "item_id": 162831,
@@ -1421,7 +1598,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/poilka-dlya-gryzunov-bibber-150ml-4h17-sm.html",
         "brand_name": "Imac",
         "town": "Saint Petersburg",
-        "price": 329
+        "price": 329,
+        "price_with_sale": 329
     },
     {
         "item_id": 162829,
@@ -1429,7 +1607,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/poilka-dlya-gryzunov-s-krepleniem-bibber-800-ml-12h6-5h19-sm.html",
         "brand_name": "Imac",
         "town": "Saint Petersburg",
-        "price": 999
+        "price": 999,
+        "price_with_sale": 999
     },
     {
         "item_id": 162825,
@@ -1437,7 +1616,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/poilka-d-gryzunov-bibber-100ml-s-krepl-k-kletke-f55h125sm.html",
         "brand_name": "Imac",
         "town": "Saint Petersburg",
-        "price": 409
+        "price": 409,
+        "price_with_sale": 409
     },
     {
         "item_id": 162823,
@@ -1445,7 +1625,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/poilka-d-gryzunov-bibber-200ml-s-krepl-k-kletke-f55h18sm.html",
         "brand_name": "Imac",
         "town": "Saint Petersburg",
-        "price": 499
+        "price": 499,
+        "price_with_sale": 499
     },
     {
         "item_id": 162821,
@@ -1453,7 +1634,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/poilka-dlya-gryzunov-bibber-330-ml-5-5h21-5-sm.html",
         "brand_name": "Imac",
         "town": "Saint Petersburg",
-        "price": 457
+        "price": 457,
+        "price_with_sale": 457
     },
     {
         "item_id": 162819,
@@ -1461,7 +1643,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/poilki--gryzuni/poilka-dlya-gryzunov-s-prisoskoy-bibber-70-ml-4h10-sm.html",
         "brand_name": "Imac",
         "town": "Saint Petersburg",
-        "price": 839
+        "price": 839,
+        "price_with_sale": 839
     },
     {
         "item_id": 162817,
@@ -1469,7 +1652,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/miska-dlya-gryzunov-mini-bowl-cveta-v-assortimente-9h9h3-sm.html",
         "brand_name": "Imac",
         "town": "Saint Petersburg",
-        "price": 179
+        "price": 179,
+        "price_with_sale": 179
     },
     {
         "item_id": 162815,
@@ -1477,7 +1661,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kormushki-dlya-sena-gryzuni/kormushka-dlya-gryzunov-mangiatoia-criceti-8h5h3-sm.html",
         "brand_name": "Imac",
         "town": "Saint Petersburg",
-        "price": 63
+        "price": 63,
+        "price_with_sale": 63
     },
     {
         "item_id": 59619,
@@ -1485,7 +1670,8 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/odinarnye-gryzuni/Miska_dmorskoy_svinki_250ml11sm_keramika_1013689.html",
         "brand_name": "Trixie",
         "town": "Saint Petersburg",
-        "price": 535
+        "price": 535,
+        "price_with_sale": 535
     },
     {
         "item_id": 125680,
@@ -1493,6 +1679,7 @@
         "webpage": "https://4lapy.ru/catalog/gryzuny-i-khorki/miski-kormushki-poilki-gryzuni/kormushki-dlya-sena-gryzuni/kormushka-shar-metallicheskaya-12sm.html",
         "brand_name": "Petmax",
         "town": "Saint Petersburg",
-        "price": 309
+        "price": 309,
+        "price_with_sale": 309
     }
 ]
